@@ -1,0 +1,2 @@
+# this problem is all about 2d array and finding shortest path through the colums of the 2d array
+
